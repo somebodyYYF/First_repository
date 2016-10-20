@@ -1,0 +1,5 @@
+name = raw_input ("tname >> ")
+qu = raw_input ("kol-vo >> ")
+price = raw_input ("price >> ")
+summ = int(price) * int(qu)
+print "tovar" + name + "prodanno" + str(summ)
